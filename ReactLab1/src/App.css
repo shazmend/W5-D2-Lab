@@ -1,0 +1,21 @@
+.container{
+  width: 173vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.programmer{
+  display: flex;
+  flex-direction: column;
+  gap: 1vh;
+}
+.Programers{
+  display: flex;
+  flex-direction: column;
+  gap: 3vh; 
+  border: 2px solid;
+  text-align: center;
+  width: 30vw;
+  background-color: rgb(238, 220, 245);
+  border-radius: 10px;
+}
